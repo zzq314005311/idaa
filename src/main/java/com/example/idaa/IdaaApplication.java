@@ -9,4 +9,8 @@ public class IdaaApplication {
     public static void main(String[] args) {
         SpringApplication.run(IdaaApplication.class, args);
     }
+
+    void login(){
+
+    }
 }
